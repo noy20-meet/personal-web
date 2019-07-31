@@ -1,4 +1,11 @@
-  
+* {
+  text-align: center;
+}
+#flip{
+  text-align: center;
+
+} 
+
 .color {
 
   background-color:#ffcc66;
